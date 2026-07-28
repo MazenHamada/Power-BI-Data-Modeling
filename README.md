@@ -83,6 +83,14 @@ Power Query was used to prepare, transform, and organize the source data before 
 - Applied Row-Level Security for regional data access.
 - Established consistent naming and modeling standards.
 
-## Tools
+## Tools & Technologies:
+- Power BI
+- Power Query
+- DAX
 
-**Power BI | Power Query | DAX | Data Modeling | Star Schema | Row-Level Security**
+## Data Modeling Concepts:
+- Data Modeling
+- Star Schema
+- Factless Facts
+- Accumulating Snapshots
+- Row-Level Security
