@@ -61,17 +61,17 @@ Each user's email is mapped to a specific region, allowing Power BI to dynamical
 
 ### Before
 
-![Before Data Model](Documentation/data_model_before.png)
+![Before Data Model](Screenshots/data_model_before.png)
 
 ### After
 
-![After Data Model](Documentation/data_model_after.png)
+![After Data Model](Screenshots/data_model_after.png)
 
 ## Power Query
 
 Power Query was used to prepare, transform, and organize the source data before building the final analytical model.
 
-![Power Query](Documentation/power_query_structure.png)
+![Power Query](Screenshots/model_structure.png)
 
 ## Key Takeaways
 
