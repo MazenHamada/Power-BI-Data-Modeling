@@ -57,6 +57,16 @@ A dedicated `security` table was implemented to support **Row-Level Security (RL
 
 Each user's email is mapped to a specific region, allowing Power BI to dynamically restrict the data visible to each user based on their assigned regional access.
 
+## Measures
+
+Created DAX measures to support key business metrics and analysis:
+
+- `avg_order_to_pay`
+- `base_total_customers`
+- `total_active_customers`
+- `total_orders`
+- `total_sales`
+
 ## Model Transformation
 
 ### Before
@@ -80,6 +90,7 @@ Power Query was used to prepare, transform, and organize the source data before 
 - Built a star schema around business processes.
 - Applied dimensional modeling principles.
 - Implemented both factless and accumulating snapshot fact tables.
+- Created DAX measures for key business metrics.
 - Applied Row-Level Security for regional data access.
 - Established consistent naming and modeling standards.
 
