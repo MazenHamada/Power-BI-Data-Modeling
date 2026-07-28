@@ -67,7 +67,7 @@ Each user's email is mapped to a specific region, allowing Power BI to dynamical
 
 ![After Data Model](Screenshots/data_model_after.png)
 
-## Power Query
+## Model Structure in Power Query
 
 Power Query was used to prepare, transform, and organize the source data before building the final analytical model.
 
